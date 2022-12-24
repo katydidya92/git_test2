@@ -17,3 +17,5 @@
 - dev2/logout 브랜치 생성
 
 - hotfix 기능 구현
+
+- main 운영2 배포 완료
