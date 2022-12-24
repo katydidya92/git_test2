@@ -15,3 +15,5 @@
 - dev2/login 브랜치 생성
  
 - dev2/logout 브랜치 생성
+
+- hotfix 기능 구현
