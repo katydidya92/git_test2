@@ -25,3 +25,5 @@
 - dev3/login 브랜치 생성
 
 - dev3/logout 브랜치 생성
+
+- main 운영 배포 3
